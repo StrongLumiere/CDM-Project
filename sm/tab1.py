@@ -1,6 +1,6 @@
 import streamlit as st
-# from st_aggrid import AgGrid, GridOptionsBuilder
-from streamlit_aggrid import AgGrid, GridOptionsBuilder
+from st_aggrid import AgGrid, GridOptionsBuilder
+# from streamlit_aggrid import AgGrid, GridOptionsBuilder
 import numpy as np
 import pandas as pd
 import plotly.express as px
