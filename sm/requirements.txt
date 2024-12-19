@@ -5,4 +5,4 @@ pandas==2.1.2
 plotly==5.18.0
 matplotlib==3.8.0
 squarify==0.4.3
-Pillow==9.5.0  # Streamlit과 호환되는 최신 버전
+Pillow==8.3.2  # Streamlit과 호환되는 최신 버전
