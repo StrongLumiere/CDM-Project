@@ -1,0 +1,7 @@
+streamlit==1.25.0
+st-aggrid==0.3.6
+numpy==1.26.0
+pandas==2.1.2
+plotly==5.18.0
+matplotlib==3.8.0
+squarify==0.4.3
