@@ -7,6 +7,6 @@ pandas==2.1.2
 plotly==5.18.0
 matplotlib==3.8.0
 squarify==0.4.3
-Pillow==9.5.0 --no-use-pep517
+Pillow==9.5.0
 pip==24.3.1
 setuptools==68.2.2
