@@ -1,10 +1,7 @@
-pip==24.3.1
-setuptools==68.2.2
 streamlit==1.25.0
-st-aggrid
+streamlit-aggrid
 numpy==1.26.0
 pandas==2.1.2
 plotly==5.18.0
 matplotlib==3.8.0
 squarify==0.4.3
-Pillow==9.5.0
